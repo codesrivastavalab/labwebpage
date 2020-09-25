@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{index.html}
+= Anand Srivastava
+
+~~~
+{}{img_left}{images/img1.jpg}{Anand Srivastava}{300px}
+{{<div style="font-size: 50px;">Hello There!</div>}}
+
+Welcome to my page! You can find all info about me here. Head out to [research.html Research] to know more about my academic experience. You can contact me via email at [mailto:anand@iisc.ac.in anand@iisc.ac.in]
+~~~
+
+== About Me
+I am a Molecular Biophysicist 
